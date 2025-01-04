@@ -17,5 +17,5 @@ This repository contains a **Financial AI Agent** built using [Phidata](https://
   Create a .env file and include any phidata and groq API keys.
   
 - Run the Financial AI Agent
-  1. python financial_agent.py
+  1. python financial_agent.py 
   2. python playground.py
