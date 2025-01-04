@@ -18,5 +18,5 @@ This repository contains a **Financial AI Agent** built using [Phidata](https://
   
 - Run the Financial AI Agent
   ```bash
-  1. python financial_agent.py 
+  1. python Finance.py 
   2. python playground.py
